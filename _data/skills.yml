@@ -1,4 +1,9 @@
 # Skills
+- skill: Java
+  description: Experience working with enterprise Java web services.
+  
+- skill: Unit Testing
+  description: Used unit testing frameworks including JUnit, QUnit, Mocha & Chai
 
 # Education
 - skill: Education
